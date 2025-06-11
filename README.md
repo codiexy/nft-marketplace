@@ -5,15 +5,6 @@ Search your rare NFT by world class artists.
 Marketplace website for NFT (Non-Fungible Token) on ethereum blockchain.
 
 
-![Logo](https://nft-marketplace.paradisetechsoft.com/_next/image?url=%2Flogo1.png&w=256&q=75)
-
-
-## Developers
-
-- [@paradisetechsoftsolutions](https://github.com/paradisetechsoftsolutions)
-- [@paradisetester](https://github.com/paradisetester)
-
-
 ## Tech Stack
 
 **Framework:** [Nextjs](https://nextjs.org/)
